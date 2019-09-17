@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jQuery-Autocomplete</artifactId>
-    <version>1.4.10-SNAPSHOT</version>
+    <version>1.4.10</version>
     <name>jQuery-Autocomplete</name>
     <description>WebJar for jQuery-Autocomplete</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jQuery-Autocomplete</url>
         <connection>scm:git:https://github.com/webjars/jQuery-Autocomplete.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jQuery-Autocomplete.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jQuery-Autocomplete-1.4.10</tag>
     </scm>
     
     <dependencies>
